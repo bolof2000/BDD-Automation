@@ -1,0 +1,5 @@
+setup.py
+BDDAutomation.egg-info/PKG-INFO
+BDDAutomation.egg-info/SOURCES.txt
+BDDAutomation.egg-info/dependency_links.txt
+BDDAutomation.egg-info/top_level.txt
